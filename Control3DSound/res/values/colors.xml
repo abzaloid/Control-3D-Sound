@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "background"> #FFBB33 </color>
+    <color name = "white"> #FFFFFF </color>
+    <color name = "realtime" > #CC0000 </color>
+    <color name = "control" > #0099CC </color>
+    <color name = "sound" > #669900 </color>
+    <color name = "title"> #B27700 </color>
+    <color name = "desc"> #FFD582 </color>
+    <color name = "bk">#FFC758  </color>
+    <color name = "red">#FF0000  </color>
+    <color name = "black">#000000  </color>
+    <color name = "violet">#C800FA</color>
+    <color name = "salat">#00FAFA</color>
+    <color name = "blue">#0F0EAFFA</color>
+</resources>
