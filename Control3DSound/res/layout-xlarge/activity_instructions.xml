@@ -17,10 +17,9 @@
         android:layout_centerVertical="true"
         android:gravity="center"
         android:text="@string/instructions"
-        android:textAlignment="center"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColor="@color/realtime" 
-        android:textSize="55dp" 
+        android:textSize="55sp" 
         />
 
 </RelativeLayout>

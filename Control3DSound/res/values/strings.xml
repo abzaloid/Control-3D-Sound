@@ -8,7 +8,7 @@
     <string name="instructions">Rotate your phone along three axes to feel 3D Sound in RealTime\n\nTo erase files long press        </string>
     <string name="title_activity_about">About</string>
     <string name="about">	    New way of 3D sound control in Real Time</string>
-    <string name="author">Designed by Abzal Serekov\nabzal.serekov@gmail.com\nKazakhstan 2014</string>
+    <string name="author">Airat Sadubayev\nAdil Kuandykov\nInfomatrix 2016</string>
     <string name="title_activity_choose">Choose sound to control</string>
     <string name="myRecords">Recorded files</string>
     <string name="List">	    Choose sound to control in 3D</string>

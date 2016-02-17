@@ -7,3 +7,7 @@ You can also record sounds, listen and control them as 3D sound.
 It is recommended to use earphones or headphones.
 
 Needs OpenAl
+
+Airat Sadubayev
+Adil Kuandykov
+Informatix 2016
