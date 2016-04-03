@@ -9,5 +9,5 @@ It is recommended to use earphones or headphones.
 Needs OpenAl
 
 Airat Sadubayev
-Adil Kuandykov
+Alisher Akimzhanov
 Informatix 2016
